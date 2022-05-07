@@ -1,0 +1,26 @@
+{
+  "name": "cybergrid",
+  "version": "1.0.0",
+  "description": "CyberGrid Sharing",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Proxtx/CyberGrid.git"
+  },
+  "author": "Proxtx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Proxtx/CyberGrid/issues"
+  },
+  "homepage": "https://github.com/Proxtx/CyberGrid#readme",
+  "dependencies": {
+    "@proxtx/config": "^1.0.2",
+    "@proxtx/framework": "^1.4.0",
+    "@proxtx/uibuilder": "^1.0.2",
+    "mongodb": "^4.5.0"
+  }
+}
