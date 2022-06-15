@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Proxtx/CyberGrid#readme",
   "dependencies": {
     "@proxtx/config": "^1.0.2",
-    "@proxtx/framework": "^1.4.0",
+    "@proxtx/framework": "^1.4.2",
     "@proxtx/uibuilder": "^1.0.2",
     "mongodb": "^4.5.0"
   }

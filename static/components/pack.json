@@ -1,0 +1,16 @@
+{
+  "components": {
+    "grid": {
+      "name": "c-grid",
+      "template": "/components/grid/index.html",
+      "component": "/components/grid/main.js",
+      "styles": ["/components/grid/style.css"]
+    },
+    "gridWidget": {
+      "name": "c-grid-widget",
+      "template": "/components/gridWidget/index.html",
+      "component": "/components/gridWidget/main.js",
+      "styles": ["/components/main.css", "/components/gridWidget/style.css"]
+    }
+  }
+}
